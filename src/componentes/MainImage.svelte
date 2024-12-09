@@ -1,6 +1,6 @@
 <style>
     .main-image{
-        margin: 10px;
+        margin-left: 20px;
         width: 100%;
     }
     .main-image img {

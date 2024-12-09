@@ -16,12 +16,12 @@
         display: flex;
         justify-content: space-around;
         flex-wrap: wrap;
-        gap: 200px;
-        margin: 50px;
+        gap: 140px;
+        margin: 30px;
     }
     .categoria {
         text-align: center;
-        max-width: 150px;
+        max-width: 200px;
     }
     .categoria img {
         width: 100%;
