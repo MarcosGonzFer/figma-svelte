@@ -4,11 +4,12 @@
       justify-content: space-between;
       align-items: center;
       padding: 1rem;
+      color: #AD8A1F;
   }
   nav a {
       margin: 0 0.5rem;
       text-decoration: none;
-      color: #333;
+      color: #AD8A1F;
   }
 </style>
 

@@ -8,7 +8,6 @@
         { name: "Louis vuitton", image: "./imagenes/louisvuitton.png" },
         { name: "Balenciaga", image: "./imagenes/balenciaga.png" },
         { name: "New Balance", image: "./imagenes/newbalance.png" },
-        { name: "Dior", image: "./imagenes/dior1.png" },
     ];
 </script>
 
